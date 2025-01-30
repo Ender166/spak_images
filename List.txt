@@ -304,4 +304,16 @@ http://verr-myg0-ato.info
 https://www.qrcreator.com/qr/A279DE27
 http://centreseveres.com/au
 https://s3.us-east-2.amazonaws.com/web-cdey-data/Index.html?EMAIL=test@gmail.com
+https://seasonmonster.s3.us-east-1.amazonaws.com/1.jar
+https://seasonmonster.s3.us-east-1.amazonaws.com/2.jar
+https://seasonmonster.s3.us-east-1.amazonaws.com/3.jar
+https://seasonmonster.s3.us-east-1.amazonaws.com/checker.jar
+https://seasonmonster.s3.us-east-1.amazonaws.com/email.js
+https://seasonmonster.s3.us-east-1.amazonaws.com/history.jar
+https://seasonmonster.s3.us-east-1.amazonaws.com/recovery.jar
+https://seasonmonster.s3.us-east-1.amazonaws.com/res.jar
+https://seasonmonster.s3.us-east-1.amazonaws.com/swiftcopy.pdf
+https://buskwet.s3.eu-west-1.amazonaws.com/py3.12.zip
+https://octupusgreat.s3.us-east-1.amazonaws.com/ffdump.py
+https://seasonmonster.s3.us-east-1.amazonaws.com/jre-1.8.zip
 
